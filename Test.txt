@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Exercici_1
 Modificació_master
+=======
+Exercici_1_modificat
+>>>>>>> branch1
